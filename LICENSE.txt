@@ -1,0 +1,11 @@
+Turnover Kit — free sample sheets licence (2026)
+
+The files in this folder (sheets.html, index.html and the eight *.pdf sample sheets) show the four printed sheets
+Turnover Kit generates for "Larkspur Cottage", a fictional two-bedroom property. Every name, phone number,
+address and quantity is invented.
+
+You may download, print, and share these sample files unchanged, for free, with attribution to Turnover Kit.
+Do not charge for them or present them as the generator. The generator itself (index.html, kit.js, print.css,
+build/test source) is sold separately under its own buyer licence and is not published here.
+
+Provided as is, without warranty. Not legal, tenancy, safety-compliance, insurance or tax advice.
