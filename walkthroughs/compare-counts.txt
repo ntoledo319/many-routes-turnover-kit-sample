@@ -1,0 +1,28 @@
+Compare cleaner and host counts
+
+Silent captioned sample walkthrough. Fictional property. Actual sample PDF excerpts.
+
+0:00 — Compare cleaner and host counts
+Captioned sample walkthrough. Fictional Larkspur Cottage. Actual sample PDF excerpts; no customer footage.
+
+0:08 — Record what was found
+The cleaner writes actual counts beside the expected quantities.
+
+0:28 — Compare at handover
+The host sheet has expected, cleaner-found, host-checked and difference columns.
+
+0:48 — Ten counted-item rows
+Adapt the list to your property. Knives, forks and spoons share one row, with eight expected of each.
+
+1:08 — Keep consumables separate
+The restock sheet uses par, reorder-below and stock-today fields.
+
+1:28 — What this does not prove
+People complete the printed blanks. This kit does not automatically track stock or identify who lost an item.
+
+1:38 — Inspect the free sample
+Free Letter/A4 sample sheets are linked below. Editable offline generator: payhip.com/b/jonH5 ($29).
+
+Free sample: https://ntoledo319.github.io/many-routes-turnover-kit-sample/
+Generator: https://payhip.com/b/jonH5
+Created by the Turnover Kit project with AI assistance.
