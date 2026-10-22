@@ -10,3 +10,7 @@ Do not charge for them or present them as the generator. The generator itself (i
 build/test source) is sold separately under its own buyer licence and is not published here.
 
 Provided as is, without warranty. Not legal, tenancy, safety-compliance, insurance or tax advice.
+
+Fonts: the sheets use Atkinson Hyperlegible (Copyright 2020 Braille Institute of America, Inc.) and IBM Plex Mono
+(Copyright 2017 IBM Corp.), embedded under the SIL Open Font License 1.1; see fonts/OFL-*.txt. They are not covered
+by this sample licence.
